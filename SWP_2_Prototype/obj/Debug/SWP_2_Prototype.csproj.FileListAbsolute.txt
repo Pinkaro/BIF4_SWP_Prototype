@@ -1,0 +1,7 @@
+C:\Users\schal\source\repos\SWP_2_Prototype\SWP_2_Prototype\deploy\SWP_2_Prototype.exe.config
+C:\Users\schal\source\repos\SWP_2_Prototype\SWP_2_Prototype\deploy\SWP_2_Prototype.exe
+C:\Users\schal\source\repos\SWP_2_Prototype\SWP_2_Prototype\deploy\SWP_2_Prototype.pdb
+C:\Users\schal\source\repos\SWP_2_Prototype\SWP_2_Prototype\obj\Debug\SWP_2_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\schal\source\repos\SWP_2_Prototype\SWP_2_Prototype\obj\Debug\SWP_2_Prototype.exe
+C:\Users\schal\source\repos\SWP_2_Prototype\SWP_2_Prototype\obj\Debug\SWP_2_Prototype.pdb
+C:\Users\schal\source\repos\SWP_2_Prototype\SWP_2_Prototype\obj\Debug\SWP_2_Prototype.csprojResolveAssemblyReference.cache
